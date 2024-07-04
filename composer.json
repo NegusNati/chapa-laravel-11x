@@ -1,11 +1,12 @@
 {
-    "name": "chapa/chapa-laravel",
+    "name": "negusnati/chapa-laravel-11x",
     "description": "A Laravel Package to Accept Payment through Chapa",
     "keywords": [
         "chapa",
-        "chapa-laravel"
+        "chapa-laravel",
+        "payment-integration"
     ],
-    "homepage": "https://github.com/chapa-et/chapa-laravel",
+    "homepage": "https://github.com/NegusNati/chapa-laravel-11x",
     "license": "MIT",
     "type": "library",
     "authors": [
@@ -18,7 +19,8 @@
             "name": "Israel Goytom",
             "email": "myfirstname@chapa.co",
             "role": "CTO"
-        }
+        }, 
+         
     ],
     "require": {
         "php": "^7.2|^8.0|^8.1",
