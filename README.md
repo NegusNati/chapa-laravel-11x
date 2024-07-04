@@ -12,6 +12,9 @@ solution, this package would help big time.
 
 Go to [Chapa](https://dashboard.chapa.co/) to signup and get your secret key
 
+## Composer install
+'composer require negusnati/chapa-laravel-11x'
+
 ## Documentation
 
 Please visit [Chapa](https://developer.chapa.co/docs/accept-payments/) for full documentation.
